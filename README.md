@@ -2,7 +2,8 @@
 
 A new Flutter project.
 ## VIDEO DE MUESTRA
-https://github-production-user-asset-6210df.s3.amazonaws.com/50926052/263556009-0e2db9a4-5be3-46ac-b11b-52789106fa30.mp4
+https://github.com/JuanHoyosPadilla/app_casa/assets/50926052/0e2db9a4-5be3-46ac-b11b-52789106fa30
+
 
 ## Getting Started
 
